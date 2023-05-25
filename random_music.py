@@ -9,7 +9,7 @@ while 1:
 	print('\033[0;33m%s\033[0m' % '【随机听音乐 by 王熙业】终端应用')
 	print('\033[0;36m%s\033[0m' % '所有资源来于网络api')
 	print('\033[0;35m%s\033[0m' % '该文件用于liunix或termux终端，实现听音乐的小应用')
-	print('the requirements of run the codes: pkg install wget , catimg , play-audio ')
+	print('the requirements of run the codes:pip3 install requests , pkg install wget , catimg , play-audio ')
 	print('\033[0;32m%s\033[0m' % '=========================================')
 	os.system('date')
 	want='1'
